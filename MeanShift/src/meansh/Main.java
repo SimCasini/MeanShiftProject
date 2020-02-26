@@ -34,7 +34,7 @@ public class Main {
 			
 		Double bandWidth = 25.0;
 		int N_Thread = 4;
-		int N = 1;
+		int N = 100;
 //Sequential			
 		ArrayList<Cluster> cl_2 = new ArrayList<Cluster>();
 		long startTime[] = new long[N];
